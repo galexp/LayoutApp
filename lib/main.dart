@@ -37,7 +37,7 @@ class LayoutApp extends StatelessWidget {
                           children: <Widget>[
                             Container(
                               width: 160,
-                              margin: const EdgeInsets.all(7.0),
+                              margin: const EdgeInsets.all(10.0),
                               padding: const EdgeInsets.all(3.0),
                               decoration: BoxDecoration(
                                   color: Colors.black12, border: Border.all()),
